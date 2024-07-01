@@ -1,0 +1,102 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.hero {
+    background-color: peachpuff;
+    padding: 50px 20px;
+    width: 100%;
+    margin: auto;
+    border: 10px;
+    text-align: center;
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+}
+
+.about {
+    padding: 50px 20px;
+    background-color: peachpuff;
+    text-align: center;
+    width: auto;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+}
+.contact {
+    padding: 20px 20px;
+    background-color: powderblue;
+    height: 100%;
+    text-align: center;
+    border: 3px solid black;
+
+}
+#title{
+    background-color: white;
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+
+}
+.description{
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#logo{
+    background-color: white;
+    width: auto;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+}
+#forms{
+    text-align: center;
+    float: center;
+}
+.mix{
+    text-align: center;
+    font-style: italic;
+    float: center;
+    font-style: italic;
+  }
+a:hover {
+    color: #1CCDCA;
+    font-style: italic;
+ }
